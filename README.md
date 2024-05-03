@@ -1,8 +1,5 @@
-## Hello there!
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=1000&pause=1000&color=B627B3&center=true&vCenter=true&random=true&width=435&lines=👋+Hi%2C+i'm+@N-aksif-N;A+Vietnamese+I.T+Student"></a></p>
-
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=N-aksif-N&theme=discord"</a></p>
 
 ## About me
 - My hometown is Vietnam. But now, I live in Germany.
@@ -11,7 +8,9 @@
 - 🌱 I’m currently learning machine learning, AI,..
 - 📫 How to reach me (tridungqt2008@gmail.com)
 - 😄 Pronouns: Aksif
-  
+
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=N-aksif-N&theme=discord"</a></p>
+
 ![N-aksif-N's GitHub stats](https://github-readme-stats.vercel.app/api?username=N-aksif-N\&rank_icon=github&theme=dark)
 ![N-aksif-N's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=N-aksif-N&theme=dark)
 
