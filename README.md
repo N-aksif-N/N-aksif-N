@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=1000&pause=1000&color=B627B3&center=true&vCenter=true&random=true&width=435&lines=👋+Hi%2C+i'm+@N-aksif-N;A+Vietnamese+I.T+Student"></a></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=1000&pause=1000&color=2483F0&center=true&vCenter=true&random=true&width=435&lines=👋+Hi%2C+i'm+@N-aksif-N;A+Vietnamese+I.T+Student"></a></p>
 
 ## About me
 - My hometown is Vietnam. But now, I live in Germany.
