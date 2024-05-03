@@ -9,8 +9,6 @@
 - 📫 How to reach me (tridungqt2008@gmail.com)
 - 😄 Pronouns: Aksif
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=N-aksif-N&theme=discord"</a></p>
-
 ![N-aksif-N's GitHub stats](https://github-readme-stats.vercel.app/api?username=N-aksif-N\&rank_icon=github&theme=dark)
 ![N-aksif-N's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=N-aksif-N&theme=dark)
 
